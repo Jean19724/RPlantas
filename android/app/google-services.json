@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821258169574",
+    "project_id": "sistemariegoapp-1d4d9",
+    "storage_bucket": "sistemariegoapp-1d4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821258169574:android:e66eb5ca3dbff28db91f27",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECuzaRO27TROJPtJQo_UprTa05G9KOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
